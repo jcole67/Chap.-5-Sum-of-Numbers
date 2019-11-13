@@ -31,7 +31,7 @@ int main()
     
     //Display the results
     cout << "The total of all the integers from 1 to " << num << " is " << total << "." << endl;
-
-    return 0;
+    
     system("pause");
+    return 0;
 }
